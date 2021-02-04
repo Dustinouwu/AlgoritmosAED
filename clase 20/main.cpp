@@ -11,10 +11,9 @@ int dato;
 
 int main() {
 
-
   int arr[11]={1,2,3,4,5,6,7,8,9,10};
 
-  cout <<"\nEl tamaño del arreglo es : "<<tamanio(arr);
+  cout <<"\nEl tamaÃ±o del arreglo es : "<<tamanio(arr);
   cout<<endl;
 
   int t=tamanio(arr);
@@ -28,7 +27,7 @@ int main() {
 
   if (dato>10)
   {
-    cout<<"No hay es elemento ";
+    cout<<"Elemento incorreto ";
   }
 
 
