@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612891174 source:c:\users\brago\onedrive\desktop\clase 20\main.cpp
+	<fstream>
+	<iostream>
+
